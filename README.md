@@ -18,4 +18,4 @@ While I still am not able to connect all of the pieces, I have gained greater in
 
 Next Steps
 
-I will reveiw this homework and what I have coded with my tutor on Tuesday and have a goal of understanding and resubmitting a finished product in the next week.
+I will reveiw this homework and my code with my tutor on Tuesday and have a goal of understanding and resubmitting a finished product in the next week.
