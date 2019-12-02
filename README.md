@@ -2,7 +2,7 @@
 
 Overview
 
-This homework required buildign a weather dashboard application that the end user could enter their location and receive back the current weather conditions including city, date, icon image, temperature, humidity, wind speed, and UV index.
+This homework required building a weather dashboard application that the end user could enter their location and receive back the current weather conditions including city, date, icon image, temperature, humidity, wind speed, and UV index.
 
 Challenges
 
